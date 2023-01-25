@@ -1,0 +1,21 @@
+export const GET_BOOK_LIST = 'GET_BOOK_LIST';
+
+export const GET_CAROUSEL_LIST = 'GET_CAROUSEL_LIST';
+
+export const GET_SEARCH_RESULTS = "GET_SEARCH_RESULTS";
+export const GET_BESTSELLERS_LIST = "GET_BESTSELLERS_LIST";
+export const GET_BOOKS_LIST_BY_IDS = "GET_BOOKS_LIST_BY_IDS";
+export const GET_BOOKS_LIST_BY_CATEGORY = "GET_BOOKS_LIST_BY_CATEGORY";
+export const MAKE_BOOK_CUT = "MAKE_BOOK_CUT";
+export const GET_BOOK = "GET_BOOK";
+
+export const GET_CATEGORIES_LIST = "GET_CATEGORIES_LIST";
+
+
+export const LOGIN = 'LOGIN';
+export const LOGOUT = 'LOGOUT';
+export const GET_USER_TOKEN = 'GET_USER_TOKEN';
+export const SET_USER_TOKEN = 'SET_USER_TOKEN';
+
+
+export const GET_DELIVERY = 'GET_DELIVERY';
