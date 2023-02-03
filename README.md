@@ -2,5 +2,5 @@
 REACT/REDUX/DJANGO
 
 
-Сайт доступно по ссылке: [deploy](sergey888.pythonanywhere.com)
+Сайт доступно по ссылке: http://sergey888.pythonanywhere.com/
 
